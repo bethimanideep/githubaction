@@ -1,0 +1,24 @@
+{
+  "name": "u5s4d4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manideep-0164/PrintNodeVersion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manideep-0164/PrintNodeVersion/issues"
+  },
+  "homepage": "https://github.com/Manideep-0164/PrintNodeVersion#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "jest": "^29.3.1"
+  }
+}
